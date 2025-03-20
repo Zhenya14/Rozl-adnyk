@@ -6,7 +6,7 @@ import json
 import threading
 
 # Замініть цей токен на свій
-API_TOKEN = '7903550091:AAHTLrSlEgUpF1_c1j1nwtCoyz9aplbrSCw'
+API_TOKEN = '7903550091:AAGJATUfeILavzIZqoOev8nmfpKlE251siM'
 timers = {}
 DEFAULT_TIMER = 0
 bot = telebot.TeleBot(API_TOKEN)
