@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for rozl-adnyk on 2025-03-20T11:31:14Z
+# fly.toml app configuration file generated for rozl-adnyk-dwa5na on 2025-09-04T07:18:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'rozl-adnyk'
+app = 'rozl-adnyk-dwa5na'
 primary_region = 'fra'
 
 [build]
